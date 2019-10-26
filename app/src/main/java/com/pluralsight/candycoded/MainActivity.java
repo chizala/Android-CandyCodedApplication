@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
         startActivity(infoIntent);
         return super.onOptionsItemSelected(item);
     }
-
+  //okkkk
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
